@@ -8,5 +8,5 @@ Here's link to presentation slides [click here](https://github.com/prashil2792/W
 
 ## Pipeline
 
-![pipeline1]()
+![architecture](https://github.com/prashil2792/Waze-Traffic-Analysis/blob/master/images/architecture.jpg)
 
